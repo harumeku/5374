@@ -1,5 +1,5 @@
 label,sublabel,description,styles,bgcolor
-燃焼ごみ,,,img/moyasu.svg,#ea3b13
+燃焼ごみ,,,img/nensyou.svg,#ea3b13
 資源ごみ,,,img/shigen.svg,#77ae1f
-大型複雑ごみ,,,img/moyasanai.svg,#733b96
-小型複雑ごみ・有害危険ごみ,,,img/moyasanai02.svg,#685ecf
+大型複雑ごみ,,,img/oogata.svg,#733b96
+小型複雑ごみ・有害危険ごみ,,,img/kogata-yuugai.svg,#685ecf
